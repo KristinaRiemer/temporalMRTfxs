@@ -1,0 +1,13 @@
+Package: temporalMRTfxs
+Version: 0.1
+Date: 2018-12-13
+Title: Functions to clean and analyze data for Temporal MRT project
+Description: The purpose of the research project is to determine how small 
+    mammal mass changes over time in response to temporal shifts in 
+    temperature. The functions to complete this includes cleaning of mass 
+    and temperature data, combining these data, modeling these data in a 
+    temporal context, and plotting the data and model results. 
+Author: Kristina Riemer <kristina.riemer@weecology.org>
+Maintainer: Kristina Riemer <kristina.riemer@weecology.org>
+RoxygenNote: 6.1.0
+License: GPL-3

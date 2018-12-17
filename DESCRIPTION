@@ -11,3 +11,4 @@ Author: Kristina Riemer <kristina.riemer@weecology.org>
 Maintainer: Kristina Riemer <kristina.riemer@weecology.org>
 RoxygenNote: 6.1.0
 License: GPL-3
+Suggests: testthat

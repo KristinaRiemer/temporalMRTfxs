@@ -2,7 +2,7 @@
 #' 
 #' Takes latitudinal coordinates and uses proper math formula to get grid values
 #' 
-#' @param coord_lon latitudinal coordinates
+#' @param coord_lat latitudinal coordinates
 #' 
 #' @return single numeric value
 #' 

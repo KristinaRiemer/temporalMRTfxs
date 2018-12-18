@@ -2,3 +2,8 @@
 
 export(lat_conversion)
 export(lon_conversion)
+export(regression_mass_slope)
+import(broom)
+import(dplyr)
+import(purrr)
+import(tidyr)

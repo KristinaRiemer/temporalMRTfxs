@@ -7,7 +7,7 @@
 lat_conversion(coord_lat)
 }
 \arguments{
-\item{coord_lon}{latitudinal coordinates}
+\item{coord_lat}{latitudinal coordinates}
 }
 \value{
 single numeric value

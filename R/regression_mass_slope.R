@@ -20,7 +20,7 @@
 regression_mass_slope = function(mass_df){
   regression_df = mass_df %>% 
     nest(-species) %>% 
-    mutate(fit = map(data, ~lm(mass_mean ~ yr, data =.)), 
+    mutate(fit = map(data, ~lm(mass_mean ~ yr, data = .)), 
            results = map(fit, tidy)) %>% 
     unnest(results) %>% 
     filter(term == "yr") %>% 

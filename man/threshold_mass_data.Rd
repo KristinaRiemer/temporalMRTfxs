@@ -4,9 +4,13 @@
 \name{threshold_mass_data}
 \alias{threshold_mass_data}
 \title{Example dataset for testing mass data thresholding function}
-\format{A dataframe with xx rows and xx variables: 
+\format{A data frame with 48 rows and 5 variables:
 \describe{
-\item{col}{description}
+\item{species}{species classification for individual}
+\item{inds}{number of individuals of that species in dataset}
+\item{yr}{year that individual was collected}
+\item{location}{site where that individual was collected}
+\item{avg_temp}{mean temperature for the year that the individual was collected}
 }}
 \usage{
 threshold_mass_data

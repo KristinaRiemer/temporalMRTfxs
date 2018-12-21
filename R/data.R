@@ -8,7 +8,7 @@
 #' \item{species}{species classification for individual}
 #' \item{inds}{number of individuals of that species in dataset}
 #' \item{yr}{year that individual was collected}
-#' \item{location}{site where that individual was collected}
+#' \item{site}{site where that individual was collected}
 #' \item{avg_temp}{mean temperature for the year that the individual was collected}
 #' }
 "threshold_mass_data"
